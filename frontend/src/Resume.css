@@ -1,0 +1,87 @@
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profile-details {
+    flex-grow: 1;
+  }
+  
+  .name {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .occupation,
+  .location {
+    margin: 0;
+    color: #666;
+  }
+  
+  .resume-details h3 {
+    margin-top: 0;
+  }
+  .cls1{
+    color: black;
+  }
+  .cls2{
+    color: black;
+  }
+  .cls3{
+    color: black;
+  }
+  .cls4{
+    color: black;
+  }
+  .cls5{
+    color: black;
+  }
+  .resume-details ul {
+    list-style-type: none;
+    padding: 0;
+    color: black;
+  }
+  
+  .resume-details li {
+    margin-bottom: 5px;
+  }
+  .contact-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .social-links {
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .social-links img {
+    width: 40px; /* Adjust size as needed */
+    height: 40px;
+  }
+  .dpprofile{
+    
+  }
+  

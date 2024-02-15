@@ -1,0 +1,14 @@
+.player1{
+    position: absolute;
+    top: 16%;
+    left: 15%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 70px;
+   min-height: 600px;
+    height:auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(252, 252, 252, 0.1);
+    background-color:white;
+}

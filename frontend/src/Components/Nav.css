@@ -1,0 +1,37 @@
+nav{
+    /* position:fixed; */
+    width: 100%;
+    /* top: 24px; */
+
+    background: rgba(255, 0, 238, 0.422);
+    backdrop-filter: blur(20px);
+    border-radius: 0px 0px 0px 10px;
+    display: flex;
+    z-index: 1000;
+    justify-content: space-between;
+    padding: 32px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    gap: 100px;
+}
+nav ul li a,
+a.logo {
+    color: #fff;
+    font-weight: 800px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a .logo .red{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img1{
+    width: 150px;
+    height: 6px;
+    margin-left: 150px;
+    margin-top: -10px;
+}
